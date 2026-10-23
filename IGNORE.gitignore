@@ -1,0 +1,10 @@
+# Ignore TurboWarp's massive desktop build directories
+/build/
+/dist/
+/out/
+
+# Ignore the final heavy desktop packages (Upload these to GitHub Releases instead!)
+*.exe
+*.dmg
+*.zip
+*.app
